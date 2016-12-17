@@ -1,6 +1,7 @@
 # Shoot The Breeze
 
-([Project Specification](http://frontend.turing.io/projects/shoot-the-breeze))
+[Project Specification](http://frontend.turing.io/projects/shoot-the-breeze)
+
 [Try it out!](https://shoot-the-breeze-9f4d8.firebaseapp.com/)
 
 ## About
