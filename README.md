@@ -4,7 +4,6 @@
 
 [Try it out!](https://shoot-the-breeze-9f4d8.firebaseapp.com/)
 
-Inline-style: 
 ![Shoot-The-Breeze ScreenShot](https://github.com/Jeff-Duke/shoot-the-breeze/blob/master/public/Screen%20Shot%202016-10-30%20at%2009.33.46.png "Shoot The Breeze ScreenShot")
 
 
